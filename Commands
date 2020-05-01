@@ -1,0 +1,50 @@
+here we have all the commands of the bot and other things want can help you if you do not know about our bot here we have support server with 20h a day our bot and made in javacord a programming language like javascript and how it is that a little different from the other language javacord I learned to give you with it a little while more I'm learning to make bots in javacord ela for me and the best programming language I always liked to use it and also I used the python language plus it was very complicated and the java script also I found a little difficult java script better known as ".js" and a language much used in visual studio code and already hear about Notepad ++ and html masi I just know mecher in javacord and pretty funny ok let's go to mega sound commands!
+
+Mega Sound commands:
+
+m!about - shows info about the bot
+m!ping - checks the bot's latency
+m!settings - shows the bots settings
+
+  Music:
+
+m!lyrics [song name] - shows the lyrics to the currently-playing song
+m!nowplaying - shows the song that is currently playing
+m!play <title|URL|subcommand> - plays the provided song
+m!playlists - shows the available playlists
+m!queue [pagenum] - shows the current queue
+m!remove <position|ALL> - removes a song from the queue
+m!search <query> - searches Youtube for a provided query
+m!scsearch <query> - searches Soundcloud for a provided query
+m!shuffle - shuffles songs you have added
+m!skip - votes to skip the current song
+
+  DJ:
+
+m!forceremove <user> - removes all entries by a user from the queue
+m!forceskip - skips the current song
+m!movetrack <from> <to> - move a track in the current queue to a different position
+m!pause - pauses the current song
+m!playnext <title|URL> - plays a single song next
+m!repeat [on|off] - re-adds music to the queue when finished
+m!skipto <position> - skips to the specified song
+m!stop - stops the current song and clears the queue
+m!volume [0-150] - sets or shows volume
+
+  Admin:
+
+m!prefix <prefix|NONE> - sets a server-specific prefix
+m!setdj <rolename|NONE> - sets the DJ role for certain music commands
+m!settc <channel|NONE> - sets the text channel for music commands
+m!setvc <channel|NONE> - sets the voice channel for playing music
+
+  Owner:
+
+m!autoplaylist <name|NONE> - sets the default playlist for the server
+m!debug - shows debug info
+m!playlist <append|delete|make|setdefault> - playlist management
+m!setavatar <url> - sets the avatar of the bot
+m!setgame [action] [game] - sets the game the bot is playing
+m!setname <name> - sets the name of the bot
+m!setstatus <status> - sets the status the bot displays
+m!shutdown - safely shuts down
